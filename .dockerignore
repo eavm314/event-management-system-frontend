@@ -1,0 +1,13 @@
+Dockerfile
+
+.git
+.github
+
+node_modules
+.next
+.vscode
+
+docs
+
+.env
+.env.local
